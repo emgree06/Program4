@@ -1,0 +1,6 @@
+J:\Prog4\Prog4\bin\Debug\Prog4.exe.config
+J:\Prog4\Prog4\bin\Debug\Prog4.exe
+J:\Prog4\Prog4\bin\Debug\Prog4.pdb
+J:\Prog4\Prog4\obj\Debug\Prog4.csprojResolveAssemblyReference.cache
+J:\Prog4\Prog4\obj\Debug\Prog4.exe
+J:\Prog4\Prog4\obj\Debug\Prog4.pdb
